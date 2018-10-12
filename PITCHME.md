@@ -11,6 +11,29 @@
 - Penegak Bantara Penegak Bantara adalah tingkatan Syarat-syarat Kecakapan Umum pertama dalam satuan Pramuka Penegak sebelum Penegak Laksana.Kata Kata Bantara sendiri diambil karena memiliki pilosofi di dalamnya, apakah itu?
 
 ---
+PENEGAK BANTARA adalah suatu tingkatan bagi Pramuka penegak yang telah menyelesaikan Syarat KecakapanUmum tingkat Bantara.Kata BANTARA sendiri bukan berarti Bantuan Tenaga Rakyat atau pun yang lain yang jelas bukan sebuah Akronim.Sejarahnya seperti ini, kata BANTARA berasal dari bahasa Sansekerta yaitu Pengawal / Adjudan, Pengawaldapat diartikan menjadi 3 hal yaitu :
+
+---
+- Pengawal Para Pejabat Seperti Presiden.
+- Pengawal terhadap pembangunan yang sudah dan sedang dilaksanakan.
+- Pengawal yang bertugas untuk mengawal dan menjaga tegak dan lestarinya Pancasila, Trisatya dan Dasa Darma.
+---
+PENEGAK BANTARA adalah orang muda yang sadar akan dirinya, sadar akan fungsinya sebagai bagian dari masyarakat dan mampu menjadi bagian antar komponen masyarakat. Disadari atau tidak, Penegak Bantara adalah pelopor bagi kemajuan masyarakat, pelopor bagi perubahan yang bermanfaat. Hal ini perlu disadari oleh seluruh Penegak Bantara.
+---
+# SYARAT UNTUK MENJADI SEORANG PENEGAK BANTARA
+---
+# ARTI DARI TANDA PENEGAK BANTARA
+---
+@ol
+- Warna hijau melambangkan kesuburan dan kemakmuran berarti seorang BANTARA harus menjaga kesuburan dan kemakmuran Negara Kesatuan Republik Indonesia dan warna hijau melambangkan diri yang berkembang yang selalu tumbuh untuk mencari tau banyak hal untuk kemajuan Negara
+- Dua tunas kelapa melambangkan keseimbangan pramuka penegak putra dan putri.
+- Bintang melambangkan seorang penegak bantara harus bertakwa kepada Tuhan Yang Maha Esa.
+- Warna kuning melambangkan keluhuran dan kejayaan pramuka.
+
+---
+Mengapa dipasang di pundak bukan di lengan kanan/kiri : 
+- Karena seorang Pramuka Penegak BANTARA harus bisamemikul rasa tanggung jawab terhadap tugas - tugasnya sebagai seorang PRAMUKA yang Sejati.
+---
 # Syarat Kecakapan Umum.
 ---
 ## salam pramuka.
@@ -39,5 +62,6 @@ Untuk salam hormat diberikan kepada :
 @ol
 - Salam janji
    Yaitu salam yang dilakukan ketika ada anggota Pramuka yang sedang dilantik. Pemberian salam pramuka dilakukan ketika dilakukan pengucapan janji yaitu Tri Satya atau Dwi Satya. Salam janji juga diberikan pada saat pengucapan janji Trisatya dalam acara Ulang Janji.
+---
 
 # Rovering to succes
