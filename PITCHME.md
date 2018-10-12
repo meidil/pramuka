@@ -36,6 +36,7 @@ Untuk salam hormat diberikan kepada :
 - Kepala Negara atau wakilnya, Panglima tinggi, para duta besar, para menteri dan pejabat lainnya.
 - Lagu Kebangsaan Indonesia Raya.
 ---
+@ol
 - Salam janji
    Yaitu salam yang dilakukan ketika ada anggota Pramuka yang sedang dilantik. Pemberian salam pramuka dilakukan ketika dilakukan pengucapan janji yaitu Tri Satya atau Dwi Satya. Salam janji juga diberikan pada saat pengucapan janji Trisatya dalam acara Ulang Janji.
 
