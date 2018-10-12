@@ -20,8 +20,6 @@ PENEGAK BANTARA adalah suatu tingkatan bagi Pramuka penegak yang telah menyelesa
 ---
 PENEGAK BANTARA adalah orang muda yang sadar akan dirinya, sadar akan fungsinya sebagai bagian dari masyarakat dan mampu menjadi bagian antar komponen masyarakat. Disadari atau tidak, Penegak Bantara adalah pelopor bagi kemajuan masyarakat, pelopor bagi perubahan yang bermanfaat. Hal ini perlu disadari oleh seluruh Penegak Bantara.
 ---
-# SYARAT UNTUK MENJADI SEORANG PENEGAK BANTARA
----
 # ARTI DARI TANDA PENEGAK BANTARA
 ---
 @ol
