@@ -23,8 +23,13 @@ PENEGAK BANTARA adalah orang muda yang sadar akan dirinya, sadar akan fungsinya 
 # ARTI DARI TANDA PENEGAK BANTARA
 ---
 @ol
-- Warna hijau melambangkan kesuburan dan kemakmuran berarti seorang BANTARA harus menjaga kesuburan dan kemakmuran Negara Kesatuan Republik Indonesia dan warna hijau melambangkan diri yang berkembang yang selalu tumbuh untuk mencari tau banyak hal untuk kemajuan Negara- Dua tunas kelapa melambangkan keseimbangan pramuka penegak putra dan putri.- Bintang melambangkan seorang penegak bantara harus bertakwa kepada Tuhan Yang Maha Esa.- Warna kuning melambangkan keluhuran dan kejayaan pramuka.
-
+- Warna hijau melambangkan kesuburan dan kemakmuran berarti seorang BANTARA harus menjaga kesuburan dan kemakmuran Negara Kesatuan Republik Indonesia dan warna hijau melambangkan diri yang berkembang yang selalu tumbuh untuk mencari tau banyak hal untuk kemajuan Negara
+---
+- Dua tunas kelapa melambangkan keseimbangan pramuka penegak putra dan putri.
+---
+- Bintang melambangkan seorang penegak bantara harus bertakwa kepada Tuhan Yang Maha Esa.
+---
+- Warna kuning melambangkan keluhuran dan kejayaan pramuka.
 ---
 Mengapa dipasang di pundak bukan di lengan kanan/kiri : 
 - Karena seorang Pramuka Penegak BANTARA harus bisamemikul rasa tanggung jawab terhadap tugas - tugasnya sebagai seorang PRAMUKA yang Sejati.
