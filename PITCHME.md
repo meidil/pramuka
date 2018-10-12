@@ -64,4 +64,28 @@ Untuk salam hormat diberikan kepada :
    Yaitu salam yang dilakukan ketika ada anggota Pramuka yang sedang dilantik. Pemberian salam pramuka dilakukan ketika dilakukan pengucapan janji yaitu Tri Satya atau Dwi Satya. Salam janji juga diberikan pada saat pengucapan janji Trisatya dalam acara Ulang Janji.
 ---
 
+KEWAJIBAN PENEGAK BANTARA
+---
+Setelah kita lulus dari Syarat Kecakapan Umum sebagai bantara, kita mempunyai tugas berikut :
+1. Mengingatkan jalannya pemerintahan
+2. Menjaga jalannya pemerintahan
+3. Mengawal jalannya pemerintahan
+---
+Selain itu, ada kewajiban lain sebagai PENEGAK BANTARA diantaranya sebagai berikut :
+---
+• Meningkatkan rasa percaya akan kemampuan dirinya
+• Menghargai kemampuan orang lain
+• Menjaga nama baik pribadi dan ambalannya
+---
+• Mengembangkan daya kreasi yang positif
+• Berani menyampaikan pendapat positif kepada orang lain dan menghargai orang lain
+• Tahan menerima kritik dari orang lain
+---
+• Bertanggung jawab terhadap tugas yang dipercayakan kepadanya
+• Berbakti kepada masyarakat,bangsa dan negara
+• Mengembangkan takwa kepada Tuhan Yang Maha Esa
+• Mengembangkan kepemimpinan
+
+---
+
 # Rovering to succes
