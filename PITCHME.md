@@ -25,13 +25,14 @@ Salam pramuka digolongkan menjadi 3 macam:
 - Salam biasa
    Yaitu salam yang diberikan kepada sesama anggota Pramuka. Siapa yang melihat dulu dialah yang harus memberi salam terlebih dahulu tanpa aba-aba, tidak pandang pangkat, tua maupun muda. Salam tersebut dapat diberikan sambil berjalan, sedang duduk, naik sepeda ataupun kendaraan. Jadi tidak harus berdiri.
 ---
+@ol
 - Salam hormat
     Yaitu salam yang diberikan kepada seseorang atau sesuatu yang kedudukannya lebih tinggi.
 Untuk salam hormat diberikan kepada :
    
 ---
 - Bendera kebangsaan ketika dikibarkan atau diturunkan dalam suatu upacara.
-Jenazah yang sedang lewat atau akan dimakamkan.
+- Jenazah yang sedang lewat atau akan dimakamkan.
 - Kepala Negara atau wakilnya, Panglima tinggi, para duta besar, para menteri dan pejabat lainnya.
 - Lagu Kebangsaan Indonesia Raya.
 ---
