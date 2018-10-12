@@ -7,7 +7,8 @@
 ---
 ### apa itu?
 @ol
-- Penegak BantaraPenegak Bantara adalah tingkatan Syarat-syarat Kecakapan Umum pertama dalam satuan Pramuka Penegak sebelum Penegak Laksana.Kata Kata Bantara sendiri diambil karena memiliki pilosofi di dalamnya, apakah itu?
+- Penegak Bantara
+ -- Penegak Bantara adalah tingkatan Syarat-syarat Kecakapan Umum pertama dalam satuan Pramuka Penegak sebelum Penegak Laksana.Kata Kata   Bantara sendiri diambil karena memiliki pilosofi di dalamnya, apakah itu?
 
 ---
 
