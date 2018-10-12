@@ -5,10 +5,11 @@
 ---
 ### apa itu?
 @ol
-- q
-- w
+- Penegak Bantara
+Penegak Bantara adalah tingkatan Syarat-syarat Kecakapan Umum pertama dalam satuan Pramuka Penegak sebelum Penegak Laksana.
+Kata Kata Bantara sendiri diambil karena memiliki pilosofi di dalamnya, apakah itu?
+
 ---
-#### ini
-![logo](https://raw.githubusercontent.com/meidil/pramuka/master/thumb-1920-511052.jpg)
+
 ---
 ## thanks
