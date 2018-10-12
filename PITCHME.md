@@ -23,7 +23,19 @@ Salam pramuka digolongkan menjadi 3 macam:
 ---
 @ol
 - Salam biasa
--- Yaitu salam yang diberikan kepada sesama anggota Pramuka. Siapa yang melihat dulu dialah yang harus memberi salam terlebih dahulu tanpa aba-aba, tidak pandang pangkat, tua maupun muda. Salam tersebut dapat diberikan sambil berjalan, sedang duduk, naik sepeda ataupun kendaraan. Jadi tidak harus berdiri.
+   Yaitu salam yang diberikan kepada sesama anggota Pramuka. Siapa yang melihat dulu dialah yang harus memberi salam terlebih dahulu tanpa aba-aba, tidak pandang pangkat, tua maupun muda. Salam tersebut dapat diberikan sambil berjalan, sedang duduk, naik sepeda ataupun kendaraan. Jadi tidak harus berdiri.
+---
+- Salam hormat
+    Yaitu salam yang diberikan kepada seseorang atau sesuatu yang kedudukannya lebih tinggi.
+Untuk salam hormat diberikan kepada :
+   
+---
+- Bendera kebangsaan ketika dikibarkan atau diturunkan dalam suatu upacara.
+Jenazah yang sedang lewat atau akan dimakamkan.
+- Kepala Negara atau wakilnya, Panglima tinggi, para duta besar, para menteri dan pejabat lainnya.
+- Lagu Kebangsaan Indonesia Raya.
+---
+- Salam janji
+   Yaitu salam yang dilakukan ketika ada anggota Pramuka yang sedang dilantik. Pemberian salam pramuka dilakukan ketika dilakukan pengucapan janji yaitu Tri Satya atau Dwi Satya. Salam janji juga diberikan pada saat pengucapan janji Trisatya dalam acara Ulang Janji.
 
-
-## thanks
+# Rovering to succes
